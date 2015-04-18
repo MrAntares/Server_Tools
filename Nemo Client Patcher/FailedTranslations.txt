@@ -1,0 +1,82 @@
+Npc Use Warp Service
+Bifrost message
+Monster
+Hours left to use
+Minutes till end
+Premium
+Earn
+Minutes Left
+You now have time to use
+Hours are
+NFL Shut down
+Normal
+Please use the game charge for
+Remaining
+Charge for a normal game, please use
+Search Window
+Map Name
+Area
+Enabled
+Disabled
+Command
+User is not invited
+Students now have full access
+Waiting rank
+Wait Time is
+Not reverse the effect of the miracle of the sun, the moon and the stars will no occur
+Opening the item attrutable to aquire items in character bank (Storage Locked) is
+Meet the characters that use this please check destination
+Will you open the box?
+Counterfeit File was detected
+Character name does not match
+The goal is here
+Goal is the same location
+Please select and move to area
+Looking for
+Arrived at the map location
+Please use the item and go to the map area
+Find a Map using the location
+Find the map route which is not supported
+We do not have navigation
+Failed to set info on the area
+Match
+Fit
+Not
+Map of
+Unable to find the goal
+Does not support the navigation area
+End Points
+Service Use
+Result list Window
+Route Guidance information window can be changed by
+Possible to change view mode
+Use the buttons at the bottom of the window in the search list
+Info Button
+Multiple directions, result window changes to chapter
+Box
+You
+Check the guide path can be faster
+Goal being output when you click the button that aim guide you the way to
+List
+Item
+Selected information is output to
+Saffron Cap
+Output all results to kafra of Prontera
+Command to retrieve
+Rules
+Want to find
+All
+Information contained
+Output
+Dunno
+Classified as a Mob
+Details
+Output lvl range of Mob that
+Mob of that level output
+Output all items
+Class Category of output types
+Map Location
+Jenny basic Command
+M: Map Name
+Target
+Failed to read information

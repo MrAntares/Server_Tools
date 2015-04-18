@@ -1,0 +1,83 @@
+Info: [01:35:19] //////////////////////////////////////////////////////////////
+Info: [01:35:19] //     ____                    ______    _ _ _              //
+Info: [01:35:19] //    |  _ \                  |  ____|  | (_) |             //
+Info: [01:35:19] //    | |_) |_ __ _____      _| |__   __| |_| |_            //
+Info: [01:35:19] //    |  _ <| '__/ _ \ \ /\ / /  __| / _` | | __|           //
+Info: [01:35:19] //    | |_) | | | (_) \ V  V /| |___| (_| | | |_            //
+Info: [01:35:19] //    |____/|_|  \___/ \_/\_/ |______\__,_|_|\__|	     //
+Info: [01:35:19] //                                                          //
+Info: [01:35:19] //                   Coded by:      Borf                    //
+Info: [01:35:19] //                   Fixes by:      Henko                   //
+Info: [01:35:19] //                                                          //
+Info: [01:35:19] //                     Libraries used:                      //
+Info: [01:35:19] //            - OpenGL                                      //
+Info: [01:35:19] //            - SDL                                         //
+Info: [01:35:19] //            - zlib                                        //
+Info: [01:35:20] //            - gd2                                         //
+Info: [01:35:20] //            - (win)sockets                                //
+Info: [01:35:20] //                                                          //
+Info: [01:35:20] //////////////////////////////////////////////////////////////
+Info: [01:35:20] 
+Info: [01:35:20] 
+Info: [01:35:20]        Public Beta Release, don't bug about any bugs...
+Info: [01:35:20]        Version 620
+Info: [01:35:20] 
+Error: [01:35:20] FS: Error opening grf d:\games\new_exRO\sdata.grf
+Info: [01:35:20] Initializing Graphics
+Info: [01:35:20] Opening general textures
+Info: [01:35:20] Loading font data/fonts/tahoma.tga
+Info: [01:35:20] Done loading font data/fonts/tahoma.tga
+Info: [01:35:20] Initializing WM
+Info: [01:35:20] Loading font data/fonts/tahoma.tga
+Info: [01:35:20] Done loading font data/fonts/tahoma.tga
+Info: [01:35:20] Window Manager initialized
+Info: [01:35:20] Loading file data/keymap.txt
+Info: [01:35:20] Done Loading file data/keymap.txt
+Info: [01:35:20] Loading file data/effects.txt
+Info: [01:35:20] Done Loading file data/effects.txt
+Info: [01:35:20] Done Initializing
+Info: [01:35:26] Deleting window Please input...
+Info: [01:35:26] Closed a window
+Error: [01:35:26] Error loading texture d:\games\new_exRO\data\texture\况磐\water000.jpg!
+Error: [01:35:26] Error loading texture d:\games\new_exRO\data\texture\况磐\water001.jpg!
+Error: [01:35:26] Error loading texture d:\games\new_exRO\data\texture\况磐\water002.jpg!
+Error: [01:35:26] Error loading texture d:\games\new_exRO\data\texture\况磐\water003.jpg!
+Error: [01:35:26] Error loading texture d:\games\new_exRO\data\texture\况磐\water004.jpg!
+Info: [01:35:26] Deleting window Please input...
+Info: [01:35:26] Closed a window
+Error: [01:35:26] Error loading texture d:\games\new_exRO\data\texture\况磐\water005.jpg!
+Error: [01:35:26] Error loading texture d:\games\new_exRO\data\texture\况磐\water006.jpg!
+Error: [01:35:26] Error loading texture d:\games\new_exRO\data\texture\况磐\water007.jpg!
+Error: [01:35:26] Error loading texture d:\games\new_exRO\data\texture\况磐\water008.jpg!
+Error: [01:35:26] Error loading texture d:\games\new_exRO\data\texture\况磐\water009.jpg!
+Error: [01:35:26] Error loading texture d:\games\new_exRO\data\texture\况磐\water010.jpg!
+Error: [01:35:26] Error loading texture d:\games\new_exRO\data\texture\况磐\water011.jpg!
+Error: [01:35:26] Error loading texture d:\games\new_exRO\data\texture\况磐\water012.jpg!
+Error: [01:35:26] Error loading texture d:\games\new_exRO\data\texture\况磐\water013.jpg!
+Error: [01:35:26] Error loading texture d:\games\new_exRO\data\texture\况磐\water014.jpg!
+Error: [01:35:27] Error loading texture d:\games\new_exRO\data\texture\况磐\water015.jpg!
+Error: [01:35:27] Error loading texture d:\games\new_exRO\data\texture\况磐\water016.jpg!
+Error: [01:35:27] Error loading texture d:\games\new_exRO\data\texture\况磐\water017.jpg!
+Error: [01:35:27] Error loading texture d:\games\new_exRO\data\texture\况磐\water018.jpg!
+Error: [01:35:27] Error loading texture d:\games\new_exRO\data\texture\况磐\water019.jpg!
+Error: [01:35:27] Error loading texture d:\games\new_exRO\data\texture\况磐\water020.jpg!
+Error: [01:35:27] Error loading texture d:\games\new_exRO\data\texture\况磐\water021.jpg!
+Error: [01:35:27] Error loading texture d:\games\new_exRO\data\texture\况磐\water022.jpg!
+Error: [01:35:27] Error loading texture d:\games\new_exRO\data\texture\况磐\water023.jpg!
+Error: [01:35:27] Error loading texture d:\games\new_exRO\data\texture\况磐\water024.jpg!
+Error: [01:35:27] Error loading texture d:\games\new_exRO\data\texture\况磐\water025.jpg!
+Error: [01:35:27] Error loading texture d:\games\new_exRO\data\texture\况磐\water026.jpg!
+Error: [01:35:27] Error loading texture d:\games\new_exRO\data\texture\况磐\water027.jpg!
+Error: [01:35:27] Error loading texture d:\games\new_exRO\data\texture\况磐\water028.jpg!
+Error: [01:35:27] Error loading texture d:\games\new_exRO\data\texture\况磐\water029.jpg!
+Error: [01:35:27] Error loading texture d:\games\new_exRO\data\texture\况磐\water030.jpg!
+Error: [01:35:27] Error loading texture d:\games\new_exRO\data\texture\况磐\water031.jpg!
+Info: [01:35:42] Deleting window Please input...
+Info: [01:35:42] Closed a window
+Info: [01:35:44] Deleting window Please input...
+Info: [01:35:44] Closed a window
+Info: [01:35:45] Deleting window Message...
+Info: [01:35:45] Closed a window
+Info: [01:35:55] Deleting window Message...
+Info: [01:35:55] Closed a window
+Info: [01:36:47] TextureCache: No textures left (that's a good thing when you're closing down)
